@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lowansteinmetz/Documents/Informatique/TD2/Graphe.h
+iostream
+-
+vector
+-
+string
+-
+Sommet.h
+/Users/lowansteinmetz/Documents/Informatique/TD2/Sommet.h
+
+/Users/lowansteinmetz/Documents/Informatique/TD2/Sommet.h
+iostream
+-
+vector
+-
+
+/Users/lowansteinmetz/Documents/Informatique/TD2/main.cpp
+iostream
+-
+Graphe.h
+/Users/lowansteinmetz/Documents/Informatique/TD2/Graphe.h
+

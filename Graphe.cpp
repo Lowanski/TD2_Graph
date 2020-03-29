@@ -1,6 +1,3 @@
-//
-// Created by Antoine Hintzy on 16/03/2020.
-//
 #include "Sommet.h"
 #include "Graphe.h"
 #include <fstream>

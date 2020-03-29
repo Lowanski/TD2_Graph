@@ -1,7 +1,3 @@
-//
-// Created by Antoine Hintzy on 16/03/2020.
-//
-
 #include "Sommet.h"
 
 Sommet::Sommet(int num) : m_numero{num} {}

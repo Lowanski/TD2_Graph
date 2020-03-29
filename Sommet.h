@@ -1,7 +1,3 @@
-//
-// Created by Antoine Hintzy on 16/03/2020.
-//
-
 #ifndef TP2_TG_SOMMET_H
 #define TP2_TG_SOMMET_H
 
